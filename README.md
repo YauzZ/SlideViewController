@@ -3,15 +3,16 @@ SlideViewController
 
 ![Screenshot: Launch image](https://github.com/andrewroycarter/SlideViewController/raw/master/screenshot.png)
 
+Update
+------
+
+Since originally creating this as a fun little weekend project, I've created a *much* better version at work, which I hope to be able to open source.
+I'm leaving this project here in case anyone is currently using it, but honestly there are much better implementations out there. Thanks!
+
 About
 -----
 
 SlideViewController is an effort to reproduce the "Slide away menu" effect that the new Facebook iOS App and many other apps are now doing.
-
-Usage
------
-
-Coming soon! For now, checkout the MySlideViewController. Basically you're going to need to subclass SlideViewController and provide a datasource array that confroms to certains keys / structure. You can also provide a search database if you'd like to include searching.
 
 License
 -------

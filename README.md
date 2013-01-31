@@ -6,8 +6,7 @@ SlideViewController
 Update
 ------
 
-Since originally creating this as a fun little weekend project, I've created a *much* better version at work, which I hope to be able to open source.
-I'm leaving this project here in case anyone is currently using it, but honestly there are much better implementations out there. Thanks!
+I've created something much better at work! Please check out https://github.com/willowtreeapps/MTStackViewController instead!
 
 About
 -----

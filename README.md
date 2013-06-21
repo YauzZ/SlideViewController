@@ -6,7 +6,9 @@ SlideViewController
 Update
 ------
 
-I've created something much better at work! Please check out https://github.com/willowtreeapps/MTStackViewController instead!
+I've created a few better solutions than this one. Please check out:
+https://github.com/andrewroycarter/PSPanNavigationController (In development, more lightweight)
+https://github.com/willowtreeapps/MTStackViewController (Mature, many features)
 
 About
 -----

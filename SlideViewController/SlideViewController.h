@@ -59,7 +59,7 @@ typedef enum {
 - (void)slideViewNavigationBar:(SlideViewNavigationBar *)navigationBar touchesEnded:(NSSet *)touches withEvent:(UIEvent *)event;
 @end
 
-#warning This project is no longer maintained. Please look into https://github.com/willowtreeapps/MTStackViewController as an alternative.
+#warning This project is no longer maintained. Please look into https://github.com/willowtreeapps/MTStackViewController or https://github.com/andrewroycarter/PSPanNavigationController as an alternative.
 __deprecated
 @interface SlideViewController : UIViewController <SlideViewNavigationBarDelegate, UITableViewDelegate, UITableViewDataSource, UINavigationControllerDelegate, UISearchBarDelegate, UITextFieldDelegate> {
     
